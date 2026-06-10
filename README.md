@@ -65,9 +65,5 @@ The dashboard transforms raw e-commerce data into actionable business insights, 
 
 Dashboard Preview
 
-<img width="1907" height="960" alt="Screenshot 2026-05-30 184302" src="https://github.com/user-attachments/assets/f335ca2d-cd37-4f1f-8b44-bea90c2d63e9" />
+<img width="1535" height="777" alt="Screenshot 2026-06-10 184830" src="https://github.com/user-attachments/assets/84f16644-5ffa-444b-bc28-f3b89f922d19" />
 
-
-B.Tech Data Science
-
-Aspiring Data Analyst | Power BI Enthusiast
