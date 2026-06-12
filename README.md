@@ -65,5 +65,6 @@ The dashboard transforms raw e-commerce data into actionable business insights, 
 
 Dashboard Preview
 
-<img width="1535" height="777" alt="Screenshot 2026-06-10 184830" src="https://github.com/user-attachments/assets/84f16644-5ffa-444b-bc28-f3b89f922d19" />
+<img width="586" height="341" alt="Screenshot 2026-06-12 173343" src="https://github.com/user-attachments/assets/139aa9ca-6ab0-4097-9ac2-e6e0fddb22bd" />
+
 
